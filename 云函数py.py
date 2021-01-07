@@ -34,6 +34,5 @@ def start():
 def main_handler(event, context):
   return start()
 
-
 if __name__ == '__main__':
   start()
